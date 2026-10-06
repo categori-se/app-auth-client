@@ -1,0 +1,11 @@
+[
+  ".github/workflows/test.yml",
+  "LICENSE",
+  "NOTICE",
+  "README.md",
+  "package.json",
+  "public-files.json",
+  "scripts/check-public-tree.py",
+  "src/index.js",
+  "test/client.test.js"
+]

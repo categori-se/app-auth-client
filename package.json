@@ -1,0 +1,23 @@
+{
+  "name": "@categori/app-auth-client",
+  "version": "0.1.0-alpha.5",
+  "description": "Provider-configured browser authorization-code/PKCE and session lifecycle shared across categori applications.",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE",
+    "NOTICE"
+  ],
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "license": "Apache-2.0"
+}
